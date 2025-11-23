@@ -46,6 +46,7 @@ Software Engineer, Product Manager, Sales Representative, Data Scientist, UX Des
 ## Architecture
 
 ### System Architecture Diagram
+![Architecture Diagram](./assets/architecture-diagram.png)
 
 ```
 ![Architecture Diagram](./assets/architecture-diagram.png)
