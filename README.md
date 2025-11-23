@@ -431,9 +431,9 @@ AI AGENT FINAL/
 
 ## Author
 
-[Your Name]  
-GitHub: [Your GitHub URL]  
-Demo Video: [Your Demo Link]
+Anubhav Kushagra
+GitHub: https://github.com/anubhavkushagra/interview-ai-agent  
+
 
 ---
 
